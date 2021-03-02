@@ -1,2 +1,0 @@
-# AlgorithmsML
- algorithms from scratch
